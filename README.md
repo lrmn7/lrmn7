@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm L RMN</h1>
-<h3 align="center">love has a cost, and both of us lost💔</h3>
+### Hello world 😳
 
-- 📫 How to reach me **619cogitoergosum@gmail.com**
+_Mostly sleepless._
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/romanromannya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romanromannya" height="30" width="40" /></a>
-<a href="https://instagram.com/romanroman.nya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanroman.nya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lrmn_vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lrmn_vp" height="30" width="40" /></a>
-<a href="https://discord.gg/WFfjrQxnfH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lrmn#6666" height="30" width="40" /></a>
-</p>
+_i am not prepared for life, only the apocalypse_
 
-##
 
-<a href="lrmn7.vercel.app/api/now-playing?open=yes">
-  <img src="lrmn7.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing"/>
+[![Linkedin](https://img.shields.io/badge/-lrmn-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/romanromannya/)](https://www.twitter.com/romanromannya/)
+[![Instagram](https://img.shields.io/badge/-@lrmn-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/romanroman.nya/)](https://instagram.com/romanroman.nya)
+[![Pinterest](https://img.shields.io/badge/-@lrmn-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
+[![Website](https://img.shields.io/badge/-hi.lrmn.site-violet?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://hi.lrmn.site/)](https://hi.lrmn.site)
+[![Spotify](https://img.shields.io/badge/-lrmn-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
+
+## What i'am listening to
+<a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
+  <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
-
 
 ------
 ### Module untuk kelengkapan akhirat
