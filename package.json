@@ -1,5 +1,5 @@
 {
-  "name": "now-playing-profile",
+  "name": "lrmn7",
   "private": true,
   "version": "1.0.0",
   "description": "Github profile",
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoshLmao/now-playing-profile.git"
+    "url": "git+https://github.com/lrmn7/lrmn7.git"
   },
   "keywords": [],
   "author": "Nate Moore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoshLmao/now-playing-profile/issues"
+    "url": "https://github.com/lrmn7/lrmn7/issues"
   },
-  "homepage": "https://github.com/JoshLmao/now-playing-profile#readme",
+  "homepage": "https://github.com/lrmn7/lrmn7#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"

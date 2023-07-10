@@ -13,7 +13,9 @@
 
 # What i'am listening to
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
+<a href="https://lrmn7.vercel.app/now-playing?open">
+    <img src="https://lrmn7.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 ------
