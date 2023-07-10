@@ -1,43 +1,30 @@
 {
   "name": "lrmn7",
-  "private": true,
   "version": "1.0.0",
-  "description": "Github profile",
-  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier src/**/* -w"
+  },
   "dependencies": {
-    "faunadb": "^2.14.2",
-    "isomorphic-unfetch": "^3.0.0",
-    "querystring": "^0.2.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "typescript": "^3.9.6"
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "spotify-web-api-node": "^5.0.2"
   },
   "devDependencies": {
-    "@types/node": "^14.0.22",
-    "@types/react": "^16.9.42",
-    "@types/react-dom": "^16.9.8",
-    "@vercel/node": "^1.7.2",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lrmn7/lrmn7.git"
-  },
-  "keywords": [],
-  "author": "Nate Moore",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lrmn7/lrmn7/issues"
-  },
-  "homepage": "https://github.com/lrmn7/lrmn7#readme",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,css,md}": "prettier --write"
+    "@types/node": "20.4.0",
+    "@types/prettier": "^2.7.3",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "@types/spotify-web-api-node": "^5.0.7",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8",
+    "typescript": "5.1.6"
   }
 }

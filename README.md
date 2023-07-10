@@ -11,10 +11,10 @@
 <a href="https://discord.gg/WFfjrQxnfH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lrmn#6666" height="30" width="40" /></a>
 </p>
 
-# What i'am listening to
+##
 
-<a href="https://lrmn7.vercel.app/now-playing?open">
-    <img src="https://lrmn7.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="lrmn7.vercel.app/api/now-playing?open=yes">
+  <img src="lrmn7.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing"/>
 </a>
 
 
