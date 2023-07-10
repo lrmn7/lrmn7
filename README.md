@@ -1,8 +1,7 @@
-<div align="center">
-  <img height="150" src="https://res.cloudinary.com/lrmn/image/upload/v1685433909/lrmn.dev/madebytragic1_rdf52a.png"/>
-</div>
+<h1 align="center">Hi 👋, I'm L RMN</h1>
+<h3 align="center">love has a cost, and both of us lost💔</h3>
 
-###
+- 📫 How to reach me **619cogitoergosum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,58 +11,29 @@
 <a href="https://discord.gg/WFfjrQxnfH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lrmn#6666" height="30" width="40" /></a>
 </p>
 
-###
+# What i'am listening to
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&"  />
-</div>
-
-###
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hjn5rpwib3744xmkulex0vw4v&cover_image=true&theme=novatorem)
 
 
- <h4 align="left">💔 love has a cost, and both of us lost</p></h4>
+------
+### Module untuk kelengkapan akhirat
+```js
+import { akhirat } from 'gusti-allah';
+import LRMN from './si-LRMN-gabut.js';
+var [ ngaji, ngibadah, ngoding, ngorok ] = L RMN
+let taat = true
+let usaha = true
+(async () => Promise( async (surga, neraka) => {
+       if (ngaji == taat && ngibadah == taat || ngoding == usaha && || ngorok == usaha) {
+          surga(akhirat.penak())
+       } else {
+          neraka(akhirat.gaPenak())
+       }
+   }))();
 
-###
-
-<h3 align="left"> What i'am listening to </h3>
-
-<a href="https://lrmn7.vercel.app/now-playing?open">
-    <img src="https://lrmn7.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
-###
-
-Support me
-
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
-
-###
-
-Built with
-
-- HTML
-- CSS
-
-###
-
-To customize with your information, i recommend making a clone of the project using:
-
-```bash
-git clone <https://github.com/MADE-BY-TRAGIC/linktree-v2.git>
-```
-
-###
-This is a free (and easy to use) alternative to linktree
-
-###
-<h1 style="text-align: center;"><a href="https://lrmn.is-a.dev/">#MADEbyTRAGIC</a></h1>
-
-<div align="center">
-  <img width="80%" src="https://res.cloudinary.com/lrmn/image/upload/v1685433807/lrmn.dev/og-github-madebytragic_p4ahi6.png">
-</div> 
+/* 
+* Module ini Dibikin Oleh L RMN
+* Anda bisa meniru saya
+* Saya ga keberatan :v
+*/
