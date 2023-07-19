@@ -12,6 +12,11 @@ _i am not prepared for life, only the apocalypse_
 [![Spotify](https://img.shields.io/badge/-lrmn-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
 
+##
+<a href="https://discord.gg/WFfjrQxnfH" target="_blank" rel="noopener noreferrer">
+  <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2" alt="Made by Tragic" />
+</a>
+
 ## What i'am listening to
 <a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
