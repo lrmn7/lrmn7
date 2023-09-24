@@ -1,6 +1,4 @@
-### Hello world 😳
-
-_Mostly sleepless._
+### _Mostly sleepless._
 
 _i am not prepared for life, only the apocalypse_
 
