@@ -2,7 +2,6 @@
 
 _i am not prepared for life, only the apocalypse_
 
-
 [![Twitter](https://img.shields.io/badge/-lrmn-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/romanromannya/)](https://www.twitter.com/romanromannya/)
 [![Instagram](https://img.shields.io/badge/-@lrmn-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/romanroman.nya/)](https://instagram.com/romanroman.nya)
 [![Pinterest](https://img.shields.io/badge/-@lrmn-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
@@ -16,3 +15,8 @@ _i am not prepared for life, only the apocalypse_
 <a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
+
+## Join Server Discord
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+</p>
