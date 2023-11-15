@@ -16,7 +16,6 @@ _i am not prepared for life, only the apocalypse_
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
 
-## Join Server Discord
-<p align="center"> 
-  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
-</p>
+## 💌 Support Server
+
+[![DiscordBanner](https://invidget.switchblade.xyz/2pkvB82NaS)](https://discord.gg/2pkvB82NaS)
