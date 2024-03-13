@@ -8,14 +8,10 @@ _i am not prepared for life, only the apocalypse_
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://hi.lrmn.site)
 [![Spotify](https://img.shields.io/badge/-lrmn-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/6EXgrmtkPX)](https://discord.gg/6EXgrmtkPX)
 ##
 
 ## What i'am listening to
 <a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
-
-## 💌 Support Server
-
-[![DiscordBanner](https://invidget.switchblade.xyz/2pkvB82NaS)](https://discord.gg/2pkvB82NaS)
