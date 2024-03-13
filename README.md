@@ -1,7 +1,9 @@
 ### _Mostly sleepless._
 
-_I love exploring anything related to technology._
-_Additionally, I have a strong interest in the world of photography, particularly virtual photography in video games_
+I love exploring anything related to technology.
+Additionally, I have a strong interest in the world of photography, particularly virtual photography in video games
+
+> Feel free to reach out to me! Whether you want to chat about technology, share photography tips, or discuss your favorite video games, I'm always up for a conversation.
 
 [![Twitter](https://img.shields.io/badge/-lrmn-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/romanromannya/)](https://www.twitter.com/romanromannya/)
 [![Instagram](https://img.shields.io/badge/-@lrmn-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/romanroman.nya/)](https://instagram.com/romanroman.nya)
