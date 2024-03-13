@@ -11,7 +11,9 @@ _i am not prepared for life, only the apocalypse_
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/6EXgrmtkPX)](https://discord.gg/6EXgrmtkPX)
 ##
 
+<!--```javascript
 ## What i'am listening to
 <a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
+```-->
