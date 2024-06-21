@@ -1,50 +1,22 @@
-<p align="center">
-  <img src="assets/spotify-logo.svg" width="400" alt="Spotify logo" />
-</p>
+<!-- Repo has been edited to be static, see comments for dynamic calls. -->
+## I'm [L RMN][homepage]
 
-# Spotify Currently Playing Track
+I love exploring anything related to technology.
+Additionally, I have a strong interest in the world of photography, particularly [virtual photography][virtualphotography] in video games ✌️
 
-Dynamically generate Spotify currently playing tracks for your github readme or everywhere.
 
-## Overview
+### Socials
 
-![Listen to Spotify](https://lrmn7.vercel.app/api)
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://hi-lrmn.is-a.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romanroman.nya) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6EXgrmtkPX) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/romanromannya/) [![Pinterest](https://img.shields.io/badge/YouTube-red.svg?logo=YouTube-red&logoColor=white)](https://www.youtube.com/@LRMN_vp/videos) ![Viewers](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&) [![GitHub followers](https://img.shields.io/github/followers/lrmn7?label=Follow&style=social)](https://github.com/lrmn7)
 
-### How to use
+<h1>
+  i really like music :headphones:
+</h1>
 
-#### 1. Go to [Spotify Dashboard](https://developer.spotify.com/dashboard/) create an app.
+### Listening Spotify
 
-1. Go **edit settings** and add **Redirect URIs**.
-   i.e. White-listed addresses to redirect to after authentication success OR failure.
-   For example development is http://localhost:3000, production is https://lrmn7.vercel.app/api.
+[![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
+---
 
-1. Rename `.env.example` to `.env` file.
-   Copy **Redirect URIs**, **Client ID**, **Client Secret** and paste into `YOUR_REDIRECT_URI` ,`YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` field.
-
-#### 2. Installation
-
-```
-npm install
-```
-
-#### 3. Get Authorize URL
-
-```
-npm run get-authorize-url
-```
-
-Paste the entire link into your browser and copy the url query string named **"code"**.
-
-#### 4. Get Refresh Token
-
-```
-npm run get-refresh-token <code>
-```
-
-Copy and paste it into the `YOUR_REFRESH_TOKEN` field.
-
-#### 5. Run start
-
-```
-npm run start
-```
+[homepage]: https://daniakash.com
+[virtualphotography]: https://vp.lrmn.fun
