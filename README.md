@@ -1,22 +1,50 @@
-### _Mostly sleepless._
+<p align="center">
+  <img src="assets/spotify-logo.svg" width="400" alt="Spotify logo" />
+</p>
 
-I love exploring anything related to technology.
-Additionally, I have a strong interest in the world of photography, particularly virtual photography in video games
+# Spotify Currently Playing Track
 
-> Feel free to reach out to me! Whether you want to chat about technology, share photography tips, or discuss your favorite video games, I'm always up for a conversation.
+Dynamically generate Spotify currently playing tracks for your github readme or everywhere.
 
-[![Twitter](https://img.shields.io/badge/-lrmn-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/romanromannya/)](https://www.twitter.com/romanromannya/)
-[![Instagram](https://img.shields.io/badge/-@lrmn-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/romanroman.nya/)](https://instagram.com/romanroman.nya)
-[![Pinterest](https://img.shields.io/badge/-@lrmn-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://hi.lrmn.site)
-[![Spotify](https://img.shields.io/badge/-lrmn-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/6EXgrmtkPX)](https://discord.gg/6EXgrmtkPX)
-##
+## Overview
 
-<!--```javascript
-## What i'am listening to
-<a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
-  <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
-</a>
-```-->
+![Listen to Spotify](https://lrmn-spotify.vercel.app/api)
+
+### How to use
+
+#### 1. Go to [Spotify Dashboard](https://developer.spotify.com/dashboard/) create an app.
+
+1. Go **edit settings** and add **Redirect URIs**.
+   i.e. White-listed addresses to redirect to after authentication success OR failure.
+   For example development is http://localhost:3000, production is https://lrmn-spotify.vercel.app/api.
+
+1. Rename `.env.example` to `.env` file.
+   Copy **Redirect URIs**, **Client ID**, **Client Secret** and paste into `YOUR_REDIRECT_URI` ,`YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` field.
+
+#### 2. Installation
+
+```
+npm install
+```
+
+#### 3. Get Authorize URL
+
+```
+npm run get-authorize-url
+```
+
+Paste the entire link into your browser and copy the url query string named **"code"**.
+
+#### 4. Get Refresh Token
+
+```
+npm run get-refresh-token <code>
+```
+
+Copy and paste it into the `YOUR_REFRESH_TOKEN` field.
+
+#### 5. Run start
+
+```
+npm run start
+```
