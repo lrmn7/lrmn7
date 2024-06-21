@@ -1,4 +1,3 @@
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
 ## I'm [L RMN][homepage]
 
 I love exploring anything related to technology.
@@ -16,5 +15,5 @@ Additionally, I have a strong interest in the world of photography, particularly
 [![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
 ---
 
-[homepage]: https://daniakash.com
+[homepage]: https://hi-lrmn.is-a.dev
 [virtualphotography]: https://vp.lrmn.fun
