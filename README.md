@@ -8,7 +8,7 @@ Dynamically generate Spotify currently playing tracks for your github readme or 
 
 ## Overview
 
-![Listen to Spotify](https://lrmn-spotify.vercel.app/api)
+![Listen to Spotify](https://lrmn7.vercel.app/api)
 
 ### How to use
 
