@@ -13,8 +13,6 @@ Additionally, I have a strong interest in the world of photography, particularly
   i really like music :headphones:
 </h1>
 
-### Listening Spotify
-
 [![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
 ---
 
