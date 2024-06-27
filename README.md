@@ -28,7 +28,9 @@
 </p>
 
 ## 🧑‍💻 About Me
-I'm a tech enthusiast with a passion for exploring new technologies and [virtual photography][virtualphotography] in video games. I love making bad jokes and I'm mediocre at everything ✌️
+I'm a tech enthusiast with a passion for exploring new technologies and [virtual photography][virtualphotography] in video games.
+<br>
+I love making bad jokes and I'm mediocre at everything ✌️
 
 - 🚀 My website  [https://lrmn.is-a.dev](https://lrmn.is-a.dev)
 - 💬 Alternatif Link: [https://hi-lrmn.is-a.dev](https://hi-lrmn.is-a.dev)
