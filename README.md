@@ -46,5 +46,6 @@ I love making bad jokes and I'm mediocre at everything ✌️
 </h1>
 
 [![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
+*Those who wish to sing always find a song ♪*
 
 [virtualphotography]: https://vp.lrmn.fun
