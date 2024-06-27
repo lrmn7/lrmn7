@@ -22,7 +22,7 @@ Additionally, I have a strong interest in the world of photography, particularly
 </h1>
 
 [![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
----
+
 
 
 [virtualphotography]: https://vp.lrmn.fun
