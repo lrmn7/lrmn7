@@ -39,6 +39,7 @@ I love making bad jokes and I'm mediocre at everything ✌️
 - **[Mewwme's Discord Music Bot](https://meww.me):** A bot for playing music on Discord.
 - **[Mewstify - Spotify Stats](https://mewstify.vercel.app):** A tool for analyzing your Spotify stats.
 - **[OhCLiPS - Share your best gaming moments](https://ohclips.vercel.app/):** A platform to share and view gaming clips.
+- **[Spotify NowPlaying](https://github.com/lrmn7/lrmn7/):** Dynamically generate Spotify currently playing tracks for your github readme.
 
 
 <h1>
