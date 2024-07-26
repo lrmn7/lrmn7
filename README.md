@@ -42,7 +42,7 @@ I love making bad jokes and I'm mediocre at everything ✌️
 - **[Spotify NowPlaying](https://github.com/lrmn7/lrmn7/):** Dynamically generate Spotify currently playing tracks for your github readme.
 
 
-<div style="text-align: center;">
+<p align="center">
 
 <h1>
   I really like music :headphones:
@@ -55,7 +55,7 @@ I love making bad jokes and I'm mediocre at everything ✌️
 
 *Those who wish to sing always find a song ♪*
 
-</div>
+</p>
 
 
 [virtualphotography]: https://vp.lrmn.fun
