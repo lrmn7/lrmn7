@@ -42,12 +42,20 @@ I love making bad jokes and I'm mediocre at everything ✌️
 - **[Spotify NowPlaying](https://github.com/lrmn7/lrmn7/):** Dynamically generate Spotify currently playing tracks for your github readme.
 
 
+<div style="text-align: center;">
+
 <h1>
   I really like music :headphones:
 </h1>
 
 [![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
 
+<a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i" target="_blank">
+<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31urnjrljaimmmf52sealktmdz3i" alt="Spotify Recent" /></p></a>
+
 *Those who wish to sing always find a song ♪*
+
+</div>
+
 
 [virtualphotography]: https://vp.lrmn.fun
