@@ -27,8 +27,9 @@
   </a>
 </p>
 
-## 🧑‍💻 About Me
-I'm a tech enthusiast with a passion for exploring new technologies and [virtual photography][virtualphotography] in video games.
+## 🧑‍💻 About Me  
+I'm a tech enthusiast with a passion for exploring new Technologies and [Virtual Photography][virtualphotography] in video games,  
+but beyond the code, i'm a storyteller through sound — i write lyrics and turn them into melodies that (hopefully) touch the soul. You can listen to the [Music](https://music.is-a.fun/) i've made there.
 <br>
 I love making bad jokes and I'm mediocre at everything ✌️
 
