@@ -37,6 +37,7 @@ I love making bad jokes and I'm mediocre at everything ✌️
 - 💬 Alternatif Link: [https://hi-lrmn.is-a.dev](https://hi-lrmn.is-a.dev)
 
 ## 📍 Pinned
+- **[L RMN Music](https://music.is-a.fun/):** A collection of songs i’ve written and produced — soundtracks from my soul.
 - **[Mewwme's Discord Music Bot](https://meww.me):** A bot for playing music on Discord.
 - **[Mewstify - Spotify Stats](https://mewstify.vercel.app):** A tool for analyzing your Spotify stats.
 - **[OhCLiPS - Share your best gaming moments](https://ohclips.vercel.app/):** A platform to share and view gaming clips.
