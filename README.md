@@ -15,7 +15,7 @@
   <a href="https://id.pinterest.com/romanromannya/">
     <img src="https://img.shields.io/badge/Pinterest-E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
   </a>
-  <a href="https://www.youtube.com/@LRMN_vp/videos">
+  <a href="https://www.youtube.com/@eleremen">
     <img src="https://img.shields.io/badge/YouTube-red.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/">
@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me  
 I'm a tech enthusiast with a passion for exploring new Technologies and [Virtual Photography][virtualphotography] in video games,  
-but beyond the code, i'm a storyteller through sound — i write lyrics and turn them into melodies that (hopefully) touch the soul. You can listen to the [Music](https://music.is-a.fun/) i've made there.
+but beyond the code, i'm a storyteller through sound — i write lyrics and turn them into melodies that (hopefully) touch the soul. You can listen to the [Music](https://music.lrmn.link/) i've made there.
 <br>
 I love making bad jokes and I'm mediocre at everything ✌️
 
@@ -37,8 +37,8 @@ I love making bad jokes and I'm mediocre at everything ✌️
 - 💬 Alternatif Link: [https://hi-lrmn.is-a.dev](https://hi-lrmn.is-a.dev)
 
 ## 📍 Pinned
-- **[L RMN Music](https://music.is-a.fun/):** A collection of songs i’ve written and produced — soundtracks from my soul.
-- **[Mewwme's Discord Music Bot](https://meww.me):** A bot for playing music on Discord.
+- **[L RMN Music](https://music.lrmn.link/):** A collection of songs i’ve written — soundtracks from my soul.
+- **[Mewwme's Discord Music Bot](https://mewwme.vercel.app):** A bot for playing music on Discord.
 - **[Mewstify - Spotify Stats](https://mewstify.vercel.app):** A tool for analyzing your Spotify stats.
 - **[OhCLiPS - Share your best gaming moments](https://ohclips.vercel.app/):** A platform to share and view gaming clips.
 - **[Spotify NowPlaying](https://github.com/lrmn7/lrmn7/):** Dynamically generate Spotify currently playing tracks for your github readme.
@@ -61,4 +61,4 @@ I love making bad jokes and I'm mediocre at everything ✌️
 
 
 
-[virtualphotography]: https://vp.lrmn.fun
+[virtualphotography]: https://vp.lrmn.link
