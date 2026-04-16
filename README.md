@@ -3,62 +3,56 @@
 </p>
 
 <p align="center">
+  Tech explorer, virtual photography enthusiast, lyric writer, and full-time bad joke enjoyer.
+</p>
+
+<p align="center">
   <a href="https://hi-lrmn.is-a.dev">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-Visit-1f6feb?style=flat&logo=About.me&logoColor=white" alt="Website">
   </a>
-  <a href="https://instagram.com/romanroman.nya">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/6EXgrmtkPX">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://id.pinterest.com/romanromannya/">
-    <img src="https://img.shields.io/badge/Pinterest-E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
+  <a href="https://music.lrmn.link/">
+    <img src="https://img.shields.io/badge/Music-Listen-1db954?style=flat&logo=spotify&logoColor=white" alt="Music">
   </a>
   <a href="https://www.youtube.com/@eleremen">
-    <img src="https://img.shields.io/badge/YouTube-red.svg?logo=YouTube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Channel-ff0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/">
-    <img src="https://img.shields.io/badge/Spotify-green.svg?logo=Spotify&logoColor=white" alt="Spotify">
+  <a href="https://instagram.com/eleremen7">
+    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&" alt="Viewers">
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7" alt="Profile views">
   <a href="https://github.com/lrmn7">
     <img src="https://img.shields.io/github/followers/lrmn7?label=Follow&style=social" alt="GitHub followers">
   </a>
 </p>
 
-## 🧑‍💻 About Me  
-I'm a tech enthusiast with a passion for exploring new Technologies and [Virtual Photography][virtualphotography] in video games,  
-but beyond the code, i'm a storyteller through sound — i write lyrics and turn them into melodies that (hopefully) touch the soul. You can listen to the [Music](https://music.lrmn.link/) i've made there.
-<br>
-I love making bad jokes and I'm mediocre at everything ✌️
+## About Me
 
-- 🚀 My website  [https://lrmn.is-a.dev](https://lrmn.is-a.dev)
-- 💬 Alternatif Link: [https://hi-lrmn.is-a.dev](https://hi-lrmn.is-a.dev)
+- I enjoy learning new tech and experimenting with creative ideas.
+- Outside coding, I do [virtual photography][virtualphotography] in video games.
+- I also write [songs](https://music.lrmn.link/) and [melodies](https://music.lrmn.link/).
+- Motto: mediocre at everything, curious about anything.
 
-## 📍 Pinned
-- **[L RMN Music](https://music.lrmn.link/):** A collection of songs i’ve written — soundtracks from my soul.
-- **[Mewwme's Discord Music Bot](https://mewwme.vercel.app):** A bot for playing music on Discord.
-- **[Mewstify - Spotify Stats](https://mewstify.vercel.app):** A tool for analyzing your Spotify stats.
-- **[OhCLiPS - Share your best gaming moments](https://ohclips.vercel.app/):** A platform to share and view gaming clips.
-- **[Spotify NowPlaying](https://github.com/lrmn7/lrmn7/):** Dynamically generate Spotify currently playing tracks for your github readme.
+> Fun fact: I have a collection of over 100 bad jokes. Ask me for one!
 
+---
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i">
+        <img src="https://github-lrmn7.vercel.app/api" alt="Spotify now playing">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31urnjrljaimmmf52sealktmdz3i" alt="Spotify recently played">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-<h1>
-  I really like music :headphones:
-</h1>
-
-[![Play Spotify](https://lrmn7.vercel.app/api)](https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i)
-
-<a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i" target="_blank">
-<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31urnjrljaimmmf52sealktmdz3i" alt="Spotify Recent" /></p></a>
-
-*Those who wish to sing always find a song ♪*
-
-</div>
-
-
+<p align="center"><i>Those who wish to sing always find a song ♪</i></p>
 
 [virtualphotography]: https://vp.lrmn.link
