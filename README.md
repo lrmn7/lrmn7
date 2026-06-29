@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  Tech explorer, virtual photography enthusiast, lyric writer, and full-time bad joke enjoyer.
+  Exploring technology, music, visual creativity, games and Web3.
 </p>
 
 <p align="center">
   <a href="https://hi-lrmn.is-a.dev">
     <img src="https://img.shields.io/badge/Website-Visit-1f6feb?style=flat&logo=About.me&logoColor=white" alt="Website">
   </a>
-  <a href="https://music.lrmn.link/">
+  <a href="https://music.eleremen.dev/">
     <img src="https://img.shields.io/badge/Music-Listen-1db954?style=flat&logo=spotify&logoColor=white" alt="Music">
   </a>
   <a href="https://www.youtube.com/@eleremen">
@@ -18,6 +18,15 @@
   </a>
   <a href="https://instagram.com/eleremen7">
     <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@eleremen">
+    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://discord.gg/nF4UGu8Nfn">
+    <img src="https://img.shields.io/badge/Discord-Join-5865f2?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://medium.com/@lrmn">
+    <img src="https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
@@ -28,14 +37,18 @@
   </a>
 </p>
 
-## About Me
+## About
 
-- I enjoy learning new tech and experimenting with creative ideas.
-- Outside coding, I do [virtual photography][virtualphotography] in video games.
-- I also write [songs](https://music.lrmn.link/) and [melodies](https://music.lrmn.link/).
-- Motto: mediocre at everything, curious about anything.
+I am curious about technology and enjoy creating things across different interests. Sometimes that means Discord bots or Web3 experiments other times it is music, virtual photography or writing. I also enjoy video games.
 
-> Fun fact: I have a collection of over 100 bad jokes. Ask me for one!
+## Personal Projects
+
+- [Listune](https://listune.app/) & [Meww.me](https://meww.me/) - Discord music bots.
+- [Virtual Photography](https://vp.eleremen.dev/) - my in-game photography gallery.
+- [Pictune](https://cdn.listune.app/) - a personal image hosting service.
+- [Midtune](https://midwest.listune.app/) - free Midwest emo instrumentals.
+- [Music](https://music.eleremen.dev/) - music and audio.
+
 
 ---
 <table align="center">
@@ -54,5 +67,3 @@
 </table>
 
 <p align="center"><i>Those who wish to sing always find a song ♪</i></p>
-
-[virtualphotography]: https://vp.lrmn.link
