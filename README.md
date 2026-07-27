@@ -52,19 +52,3 @@ I am curious about technology and enjoy creating things across different interes
 
 
 ---
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i">
-        <img src="https://github-lrmn7.vercel.app/api" alt="Spotify now playing">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31urnjrljaimmmf52sealktmdz3i" alt="Spotify recently played">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><i>Those who wish to sing always find a song ♪</i></p>
