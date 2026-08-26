@@ -43,8 +43,9 @@ I am curious about technology and enjoy creating things across different interes
 
 ## Personal Projects
 
-- [Listune](https://listune.app/) & [Meww.me](https://meww.me/) - Discord music bots.
+- [Listune](https://listune.app/) - Discord music bots.
 - [Virtual Photography](https://vp.eleremen.dev/) - my in-game photography gallery.
+- [LavaTune](https://lava.listune.app/) - Managed Lavalink hosting platform.
 - [Mailtune](https://mail.listune.app/) - self-hosted temporary email service
 - [Pictune](https://cdn.listune.app/) - a personal image hosting service.
 - [Midtune](https://midwest.listune.app/) - free Midwest emo instrumentals.
